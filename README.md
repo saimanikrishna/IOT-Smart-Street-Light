@@ -1,1 +1,2 @@
 # IOT-Smart-Street-Light
+This Arduino project involves creating a smart street light system that utilizes both IR sensors and Light Detecting Resistors (LDR). The LDR is employed to discern light levels, adjusting its resistance based on the ambient light intensity. Meanwhile, an IR sensor is incorporated to detect the presence of vehicles. Consequently, the street light is activated only during nighttime conditions and when a vehicle is detected by the IR sensor.
